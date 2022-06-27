@@ -45,13 +45,13 @@ disp('El procedimiento fue correcto');
 ---
 ## **Uso**
 
-*[biseccion.m]
-*[newton.m]
-*[secante.m]
-*[fposicion.m]
-*[aitken.m]
-*[steffensen.m]
-*[muller.m]
+* [biseccion.m]
+* [newton.m]
+* [secante.m]
+* [fposicion.m]
+* [aitken.m]
+* [steffensen.m]
+* [muller.m]
 
 ---
 ## **Soporte** :interrobang:
