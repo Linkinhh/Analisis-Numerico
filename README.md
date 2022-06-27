@@ -45,7 +45,7 @@ disp('El procedimiento fue correcto');
 ---
 ## **Uso**
 
-* [biseccion.m]
+* [biseccion.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/biseccion.m)
 * [newton.m]
 * [secante.m]
 * [fposicion.m]
