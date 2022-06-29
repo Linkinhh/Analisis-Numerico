@@ -1,5 +1,7 @@
 # ***Métodos Numéricos***
 
+<p align="center">
+  <a href="/DOCS/README_en.md">English </a>
 ## **Descripción** :page_with_curl:
 ---
 En este proyecto se llevó a cabo la elaboración de distintos métodos númericos utilizando matlab. Un método numérico es una serie de pasos que se plantean para obtener una solución aproximada de un problema. Para lograr este objetivo, se utilizan cálculos puramente aritméticos y lógicos.
