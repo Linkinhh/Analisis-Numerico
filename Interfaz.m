@@ -114,6 +114,7 @@ while(i<=N0)
     ac=ac*0.5;
     plot(handles.axes1,b,f(b),'ro-');
     plot(handles.axes1,a,f(a),'ro-');
+    plot(handles.axes1,p,FP,'bo-');
     fplot(handles.axes1,fx,'k-','LineWidth',2);%Grafica la función de color negro y grosor 2
     title('Método de la bisección'); hold on; grid on; %Título de la función.
     axis([a-ac b+ac f(a)-ac  f(b)+ac])
